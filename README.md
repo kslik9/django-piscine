@@ -1,1 +1,2 @@
 # django-piscine
+Welcome to the Django-piscine Exercises repository! This collection of small exercises is designed to help me grasp the fundamentals of Django it has few days and every day has a set of exercises . Whether you're a beginner looking to dive into web development or an experienced developer seeking to enhance your Django skills, these exercises are tailored to provide hands-on experience and deepen your understanding of Django's core concepts.
